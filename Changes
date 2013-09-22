@@ -1,4 +1,7 @@
-Revision history for Perl extension WWW-Scraper-ISBN-TheNile_Driver.
+Revision history for WWW-Scraper-ISBN-TheNile_Driver
+====================================================
+
+        - added git repository links to metadata.
 
 0.11    2013-03-17
         - added isbn-check.pl to examples.

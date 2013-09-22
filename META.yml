@@ -23,7 +23,6 @@ build_requires:
   Data::Dumper:                 0
   IO::File:                     0
   Test::More:                   0.70
-  Test::More:                   0.70
 
 provides:
   WWW::Scraper::ISBN::TheNile_Driver:
@@ -37,6 +36,7 @@ no_index:
 resources:
   license:    http://www.perlfoundation.org/artistic_license_2_0
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=WWW-Scraper-ISBN-TheNile_Driver
+  repository: http://github.com/barbie/www-scraper-isbn-thenile_driver
 
 meta-spec:
    version:   1.4
